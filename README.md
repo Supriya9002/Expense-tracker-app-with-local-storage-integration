@@ -19,7 +19,7 @@ Expense Tracker is a web application that allows users to track their expenses. 
 
 1. Clone the repository:
 
-git clone : 
+git clone : https://github.com/Supriya9002/Expense-tracker-app-with-local-storage-integration
 
 2. Navigate to the project directory:
 
